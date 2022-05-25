@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/macie/AndroidStudioProjects/MultiTool/app/src/main/res/drawable/gradient100.xml" value="0.2265" />
+        <entry key="..\:/Users/macie/AndroidStudioProjects/MultiTool/app/src/main/res/drawable/gradient110.xml" value="0.2265" />
+        <entry key="..\:/Users/macie/AndroidStudioProjects/MultiTool/app/src/main/res/drawable/gradient120.xml" value="0.1935" />
+        <entry key="..\:/Users/macie/AndroidStudioProjects/MultiTool/app/src/main/res/drawable/gradient200.xml" value="0.2065" />
+        <entry key="..\:/Users/macie/AndroidStudioProjects/MultiTool/app/src/main/res/drawable/gradient210.xml" value="0.2265" />
+        <entry key="..\:/Users/macie/AndroidStudioProjects/MultiTool/app/src/main/res/drawable/gradient220.xml" value="0.1935" />
+        <entry key="..\:/Users/macie/AndroidStudioProjects/MultiTool/app/src/main/res/drawable/gradient300.xml" value="0.2065" />
+        <entry key="..\:/Users/macie/AndroidStudioProjects/MultiTool/app/src/main/res/drawable/gradient310.xml" value="0.2265" />
+        <entry key="..\:/Users/macie/AndroidStudioProjects/MultiTool/app/src/main/res/drawable/gradient320.xml" value="0.1935" />
+        <entry key="..\:/Users/macie/AndroidStudioProjects/MultiTool/app/src/main/res/drawable/gradient401.xml" value="0.1615" />
+        <entry key="..\:/Users/macie/AndroidStudioProjects/MultiTool/app/src/main/res/drawable/gradient_list100.xml" value="0.2065" />
+        <entry key="..\:/Users/macie/AndroidStudioProjects/MultiTool/app/src/main/res/drawable/gradient_list110.xml" value="0.2265" />
+        <entry key="..\:/Users/macie/AndroidStudioProjects/MultiTool/app/src/main/res/drawable/gradient_list120.xml" value="0.1935" />
+        <entry key="..\:/Users/macie/AndroidStudioProjects/MultiTool/app/src/main/res/drawable/gradient_temp.xml" value="0.2065" />
+        <entry key="..\:/Users/macie/AndroidStudioProjects/MultiTool/app/src/main/res/drawable/lightmode.xml" value="0.1935" />
+        <entry key="..\:/Users/macie/AndroidStudioProjects/MultiTool/app/src/main/res/drawable/phoneposition.xml" value="0.167" />
+        <entry key="..\:/Users/macie/AndroidStudioProjects/MultiTool/app/src/main/res/drawable/position.xml" value="0.2265" />
+        <entry key="..\:/Users/macie/AndroidStudioProjects/MultiTool/app/src/main/res/drawable/pressure.xml" value="0.2265" />
+        <entry key="..\:/Users/macie/AndroidStudioProjects/MultiTool/app/src/main/res/drawable/thermostat.xml" value="0.1295" />
+        <entry key="..\:/Users/macie/AndroidStudioProjects/MultiTool/app/src/main/res/layout/activity_main.xml" value="0.335" />
+        <entry key="..\:/Users/macie/AndroidStudioProjects/MultiTool/app/src/main/res/layout/activity_maps.xml" value="0.32135416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
