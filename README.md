@@ -19,4 +19,4 @@ Simulation of sensor operation
 
 ----------------------
 
-*!Requires Initialization of your own google maps API key!*
+*Requires Initialization of your own google maps API key!*
