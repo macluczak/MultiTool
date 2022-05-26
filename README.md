@@ -1,6 +1,6 @@
 # MultiTool
 
-## Application for Android that uses available sensors for convenient visualization of the necessary data for the user: ambient temperature, location of device states, etc...
+## Application for Android that uses available sensors for convenient visualization of the necessary data for the user: ambient temperature, location of device states, etc... Implementation of the Google Maps* fragment displaying the current location
 
 ## Inform user about temperature by notification alert
  ----------
@@ -19,4 +19,4 @@ Simulation of sensor operation
 
 ----------------------
 
-*Requires Initialization of your own google maps API key, The key used is secured (not in the repository)!*
+**Requires Initialization of your own google maps API key, The key used is secured (not in the repository)!*
