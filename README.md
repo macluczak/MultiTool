@@ -13,7 +13,7 @@ Graphical User Interface: Motion Layout, Grid Layout, Animated Background + Anim
 </table>
 
 -----------------
-Simulation of sensor operation
+Simulation of sensors
 
 ![Lab7-145366_Trim_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/77066408/169554416-f8f3ea39-2fd6-42ce-add1-76c922c56b18.gif)
 
