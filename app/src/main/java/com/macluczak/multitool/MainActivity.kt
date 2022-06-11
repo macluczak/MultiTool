@@ -153,7 +153,7 @@ class MainActivity : AppCompatActivity(), SensorEventListener, OnMapReadyCallbac
         setContentView(R.layout.activity_main)
         hideSystemBars()
 
-        Places.initialize(getApplicationContext(), "AIzaSyCqDGlCK5_gpRdlZaPUr76v9ZGhKb09SMA")
+        Places.initialize(getApplicationContext(), BuildConfig.MAP_KEY)
 
         val temperatureCard = findViewById<LinearLayout>(R.id.temperatureLayout)
         val temperatureDrawable = temperatureCard.background as AnimationDrawable
